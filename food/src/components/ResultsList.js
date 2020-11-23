@@ -9,9 +9,7 @@ const ResultsList = ({ title, results }) => {
                 horizontal={true}
                 data={results}
                 keyExtractor={(result) => result.id}
-                renderItem={({ item }) => {
-                    return <Text>{item.name}</Text>
-                }}
+                renderItem={({ item }) => <Text>{item.name}</Text>}
             />
         </View>
     );
