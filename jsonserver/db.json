@@ -1,0 +1,14 @@
+{
+  "blogposts": [
+    {
+      "title": "Api Post 1",
+      "content": "My First Content",
+      "id": 1
+    },
+    {
+      "title": "Rohit Agarwal",
+      "content": "This is my name",
+      "id": 3
+    }
+  ]
+}
