@@ -16,4 +16,8 @@
 <img src="https://github.com/javamultiplex/react-native/blob/master/rn-starter/color_screen.jpg" width="350" height="600">
     <h3>7. Square Screen </h3><br/>
 <img src="https://github.com/javamultiplex/react-native/blob/master/rn-starter/square_screen.jpg" width="350" height="600">
+    <h3>8. Input Screen </h3><br/>
+<img src="https://github.com/javamultiplex/react-native/blob/master/rn-starter/input_screen.jpg" width="350" height="600">
+     <h3>9. Box Screen </h3><br/>
+<img src="https://github.com/javamultiplex/react-native/blob/master/rn-starter/box_screen.jpg" width="350" height="600">
 <div>
