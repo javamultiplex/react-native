@@ -1,6 +1,8 @@
-# Restaurant Search App
+# Restaurant Search App (Android)
 
-<div style="flex-direction:row;">
+<div>
+  <h3>1. Home Screen (Show all restaurants as per search)</h3><br/>
 <img src="https://github.com/javamultiplex/react-native/blob/master/food/home_screen.jpg" width="350" height="600">
-<img src="https://github.com/javamultiplex/react-native/blob/master/food/result_show_screen.jpg" width="350" height="600" style="align-self:flex-end;">
+    <h3>2. Show Screen (Show all photos of specific restaurant)</h3><br/>
+<img src="https://github.com/javamultiplex/react-native/blob/master/food/result_show_screen.jpg" width="350" height="600">
 <div>
