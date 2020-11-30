@@ -10,4 +10,10 @@
 <img src="https://github.com/javamultiplex/react-native/blob/master/rn-starter/List_Screen.jpg" width="350" height="600">
     <h3>4. Image Screen </h3><br/>
 <img src="https://github.com/javamultiplex/react-native/blob/master/rn-starter/Image_screen.jpg" width="350" height="600">
+     <h3>5. Counter Screen </h3><br/>
+<img src="https://github.com/javamultiplex/react-native/blob/master/rn-starter/counter_screen.jpg" width="350" height="600">
+        <h3>6. Color Screen </h3><br/>
+<img src="https://github.com/javamultiplex/react-native/blob/master/rn-starter/color_screen.jpg" width="350" height="600">
+    <h3>7. Square Screen </h3><br/>
+<img src="https://github.com/javamultiplex/react-native/blob/master/rn-starter/square_screen.jpg" width="350" height="600">
 <div>
