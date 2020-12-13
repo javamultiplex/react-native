@@ -1,10 +1,36 @@
 import React from 'react';
-import { View, Text, StyleSheet } from 'react-native';
-
+import { View, KeyboardAvoidingView, Text, StyleSheet } from 'react-native';
+import AuthForm from '../components/AuthForm';
+import NavLink from '../components/NavLink';
 const SigninScreen = () => {
-	return <Text style={{ fontSize: 48 }}>SigninScreen</Text>;
+	return (
+		<KeyboardAvoidingView>
+			<View style={styles.container}>
+				<AuthForm
+					headerText='Sign In to your Account'
+					submitButtonLabel='Sign In'
+					onSubmit={() => {}}
+					errorMessage=''
+				/>
+				<NavLink
+					text="Don't have an account? Sign Up instead!"
+					routeName='Signup'
+				/>
+			</View>
+		</KeyboardAvoidingView>
+	);
 };
 
-const styles = StyleSheet.create({});
+SigninScreen.navigationOptions = () => {
+	return {
+		headerShown: false,
+	};
+};
+
+const styles = StyleSheet.create({
+	container: {
+		paddingVertical: 100,
+	},
+});
 
 export default SigninScreen;
