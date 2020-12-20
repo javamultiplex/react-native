@@ -1,7 +1,7 @@
 import React, { useContext } from 'react';
 import { StyleSheet, ActivityIndicator } from 'react-native';
 import { Context as LocationContext } from '../contexts/LocationContext';
-import MapView, { Polyline } from 'react-native-maps';
+import MapView, { Polyline, Circle } from 'react-native-maps';
 
 const Map = () => {
 	const {
@@ -20,12 +20,14 @@ const Map = () => {
 				latitudeDelta: 0.01,
 				longitudeDelta: 0.01,
 			}}
-			region={{
-				...currentLocation.coords,
-				latitudeDelta: 0.01,
-				longitudeDelta: 0.01,
-			}}
-		></MapView>
+		>
+			<Circle
+				radius={30}
+				center={currentLocation.coords}
+				strokeColor='rgba(158,158,255, 1.0)'
+				fillColor='rgba(158,158,255, 0.3)'
+			/>
+		</MapView>
 	);
 };
 
