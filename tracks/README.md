@@ -19,10 +19,14 @@
   <img src="https://github.com/javamultiplex/react-native/blob/master/tracks/screenshots/save_first_track_recording.jpg" width="350" height="600">
   <h3>9. Add second track</h3><br/>
   <img src="https://github.com/javamultiplex/react-native/blob/master/tracks/screenshots/add_second_track.jpg" width="350" height="600">
-  <h3>6. Start second track recording</h3><br/>
+  <h3>10. Start second track recording</h3><br/>
   <img src="https://github.com/javamultiplex/react-native/blob/master/tracks/screenshots/start_second_track_recording.jpg" width="350" height="600">
-  <h3>7. Stop second track recording</h3><br/>
+  <h3>11. Stop second track recording</h3><br/>
   <img src="https://github.com/javamultiplex/react-native/blob/master/tracks/screenshots/stop_second_track_recording.jpg" width="350" height="600">
-  <h3>8. Save second track recording</h3><br/>
+  <h3>12. Save second track recording</h3><br/>
   <img src="https://github.com/javamultiplex/react-native/blob/master/tracks/screenshots/save_second_track_recording.jpg" width="350" height="600">
+  <h3>13. View first track detail</h3><br/>
+  <img src="https://github.com/javamultiplex/react-native/blob/master/tracks/screenshots/first_track_details.jpg" width="350" height="600">
+  <h3>14. View second track detail</h3><br/>
+  <img src="https://github.com/javamultiplex/react-native/blob/master/tracks/screenshots/second_track_details.jpg" width="350" height="600">
 <div>
