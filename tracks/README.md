@@ -17,4 +17,12 @@
   <img src="https://github.com/javamultiplex/react-native/blob/master/tracks/screenshots/stop_first_track_recording.jpg" width="350" height="600">
   <h3>8. Save first track recording</h3><br/>
   <img src="https://github.com/javamultiplex/react-native/blob/master/tracks/screenshots/save_first_track_recording.jpg" width="350" height="600">
+  <h3>9. Add second track</h3><br/>
+  <img src="https://github.com/javamultiplex/react-native/blob/master/tracks/screenshots/add_second_track.jpg" width="350" height="600">
+  <h3>6. Start second track recording</h3><br/>
+  <img src="https://github.com/javamultiplex/react-native/blob/master/tracks/screenshots/start_second_track_recording.jpg" width="350" height="600">
+  <h3>7. Stop second track recording</h3><br/>
+  <img src="https://github.com/javamultiplex/react-native/blob/master/tracks/screenshots/stop_second_track_recording.jpg" width="350" height="600">
+  <h3>8. Save second track recording</h3><br/>
+  <img src="https://github.com/javamultiplex/react-native/blob/master/tracks/screenshots/save_second_track_recording.jpg" width="350" height="600">
 <div>
